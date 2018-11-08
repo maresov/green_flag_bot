@@ -1,1 +1,1 @@
-python green_flag_script.py
+web: python green_flag_script.py
