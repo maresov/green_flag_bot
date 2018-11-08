@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+import collections
+
 from telegram.ext import Updater         # пакет называется python-telegram-bot, но Python-
 from telegram.ext import CommandHandler  # модуль почему-то просто telegram ¯\_(ツ)_/¯
 
